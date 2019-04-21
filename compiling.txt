@@ -1,0 +1,7 @@
+To compile:
+
+g++ main.cc
+
+To run:
+
+./a.out > ball.ppm
